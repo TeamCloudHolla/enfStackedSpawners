@@ -1,0 +1,6 @@
+name: enfStackedSpawners
+main: com.enforcedmc.stackedspawners.StackedSpawners
+version: 1.0
+author: EnforcedMC
+description:
+commands:
